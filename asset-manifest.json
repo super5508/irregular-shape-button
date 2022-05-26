@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/irregular-shape-button/static/css/main.affdf161.css",
-    "main.js": "/irregular-shape-button/static/js/main.efb25056.js",
+    "main.js": "/irregular-shape-button/static/js/main.171b6c22.js",
     "static/js/787.816db3a6.chunk.js": "/irregular-shape-button/static/js/787.816db3a6.chunk.js",
     "static/media/trash.svg": "/irregular-shape-button/static/media/trash.46b52552e0c3c91164b9c3f662f1abae.svg",
     "static/media/eye.svg": "/irregular-shape-button/static/media/eye.08854916264f2d040c25d79cd10badf9.svg",
@@ -17,11 +17,11 @@
     "static/media/IconButton4.svg": "/irregular-shape-button/static/media/IconButton4.df833fe5e6fa2c705977.svg",
     "static/media/Divider.svg": "/irregular-shape-button/static/media/Divider.18dd2d5ffd0a6b379ec7.svg",
     "main.affdf161.css.map": "/irregular-shape-button/static/css/main.affdf161.css.map",
-    "main.efb25056.js.map": "/irregular-shape-button/static/js/main.efb25056.js.map",
+    "main.171b6c22.js.map": "/irregular-shape-button/static/js/main.171b6c22.js.map",
     "787.816db3a6.chunk.js.map": "/irregular-shape-button/static/js/787.816db3a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.affdf161.css",
-    "static/js/main.efb25056.js"
+    "static/js/main.171b6c22.js"
   ]
 }
