@@ -13,6 +13,7 @@ import "./App.scss";
 function App() {
   return (
     <div className="App">
+      <p>Hello World</p>
       <Divider />
       <div className="buttons-bar">
         <IconButton variant={1} onClick={() => alert("Button 1")}>
