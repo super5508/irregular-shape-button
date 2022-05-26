@@ -1,0 +1,33 @@
+.icon-button {
+    background: transparent;
+    width: 36px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+    border: none;
+    outline: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+
+    &__content {
+        display: inline-flex;
+    }
+
+    &.variant-1 {
+        background-image: url('../../assets/IconButton.svg');
+    }
+
+    &.variant-2 {
+        background-image: url('../../assets/IconButton2.svg');
+    }
+
+    &.variant-3 {
+        background-image: url('../../assets/IconButton3.svg');
+    }
+
+    &.variant-4 {
+        background-image: url('../../assets/IconButton4.svg');
+    }
+}

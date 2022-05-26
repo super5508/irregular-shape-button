@@ -1,0 +1,32 @@
+.filled-button {
+    background: transparent;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+    gap: 8px;
+    border: none;
+    outline: none;
+    border: none;
+    background-image: url('../../assets/FilledButton.svg');
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    padding: 0;
+    transition: all .2s;
+    
+    &.button-sm {
+        font-size: 14px;
+        line-height: 16px;
+        padding: 16px 24px;
+    }
+
+    &.button-lg {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    &.button-block {
+        width: 100%;
+    }
+}

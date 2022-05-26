@@ -1,0 +1,38 @@
+.outlined-button {
+    background: transparent;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+    gap: 8px;
+    border: none;
+    outline: none;
+    border: none;
+    background-image: url('../../assets/OutlinedButton.svg');
+    background-size: 100% 100%;
+    mask-image: url('../../assets/OutlinedButtonMask.svg');
+    mask-size: 100% 100%;
+    mask-repeat: no-repeat;
+    mask-mode: alpha;
+    cursor: pointer;
+    padding: 0;
+    transition: all .2s;
+    
+    &.button-sm {
+        font-size: 14px;
+        line-height: 16px;
+        padding: 12px 16px;
+    }
+
+    &.button-lg {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    &.button-block {
+        width: 100%;
+    }
+
+    &:hover {
+        background-color: #FFC629;
+    }
+}

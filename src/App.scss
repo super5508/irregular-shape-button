@@ -1,0 +1,19 @@
+.buttons-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.buttons-bar-2 {
+  display: flex;
+  width: 360px;
+  margin: 0 auto;
+  gap: 10px;
+  margin-bottom: 30px;
+
+  button {
+    flex: 1;
+  }
+}
